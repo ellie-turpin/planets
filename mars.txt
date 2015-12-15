@@ -3,3 +3,7 @@ This is line 1 of mars.
 Here is a line 2. This is a further modification
 This is line 3 - what's happening in the directory?
 
+This is my edit.
+
+Ellie
+
